@@ -2,8 +2,7 @@ package com.example.urlshortener.dto;
 
 public class UrlRequest {
     private String longUrl;
-    private String customAlias; // ✅ NEW
-
+    private String customAlias;
     public UrlRequest() {}
 
     public UrlRequest(String longUrl, String customAlias) {
