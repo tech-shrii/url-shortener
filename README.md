@@ -139,6 +139,19 @@ bash:
     Custom Alias Support: Users can optionally specify a custom alias when creating a short URL.
     Swagger UI Integration: Provides an interactive interface for API testing and documentation.
 
+## 📸 Screenshots
+
+### ✅ Swagger UI Demo
+![Swagger UI POST](screenshots/swaggerui1.png)
+![Swagger UI GET](screenshots/swaggerui2.png)
+
+### ✅ Postman Test Result
+![Postman POST](screenshots/postman_post.png)
+![Postman GET](screenshots/postman_get.png)
+
+### ✅ URL Redirection in Browser
+![Working Demo](screenshots/working.png)
+
 👤 Author
 Shrikant Ingle
 GitHub: tech-shrii
